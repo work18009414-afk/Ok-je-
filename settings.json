@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "SHUBHHYPIXEL.aternos.me",
+    "port": 13558,
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
